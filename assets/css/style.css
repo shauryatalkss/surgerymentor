@@ -1486,7 +1486,7 @@ section {
   padding-right: 10px;
   font-size: 20px;
   line-height: 0;
-  color: var(--color-primary);
+  color: #008374;
 }
 
 .faq .accordion-button:not(.collapsed) {
