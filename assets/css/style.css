@@ -818,10 +818,7 @@ section {
 /*--------------------------------------------------------------
 # Frequently Asked Questions Section
 --------------------------------------------------------------*/
-.faq
-{
-  align-items: center;
-}
+
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
@@ -839,7 +836,7 @@ section {
 }
 
 .faq .accordion-item {
-  border: 1px solid;
+
   margin-bottom: 20px;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.07);
   border-radius: 10px;
@@ -890,6 +887,7 @@ section {
   border: 0;
   border-radius: 10px;
   background: #fff;
+
   box-shadow: none;
 }
 
